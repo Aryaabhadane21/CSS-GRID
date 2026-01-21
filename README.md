@@ -29,3 +29,5 @@ TASK 10
 <img width="1710" height="581" alt="Screenshot 2026-01-20 at 9 36 36 PM" src="https://github.com/user-attachments/assets/bd40955a-6bcc-4b43-a444-221dd3e2503d" />
 
 
+FUN NATURE GALLERY WEBPAGE
+<img width="1710" height="941" alt="Screenshot 2026-01-21 at 7 55 21 PM" src="https://github.com/user-attachments/assets/76d17163-5f99-4dc6-bacd-03489dd817e3" />
