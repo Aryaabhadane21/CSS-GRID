@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    color: #ffffff;
+    background: url("https://www.brookings.edu/wp-content/uploads/2017/11/metro_20171121_tech-empowers-tech-polarizes-mark-muro.jpg?quality=75")
+    no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background: rgba(0, 0, 0, 0, 4);
+    backdrop-filter: blur(5px);
+}
+header h1 {
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+header p {
+    font-size: 15px;
+    opacity: 1;
+}
+.container {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 20px;
+    padding: 30px;
+}
+.sidebar {
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(6px);
+    padding: 20px;
+    border-radius: 10px;
+    height: fit-content;
+}
+.sidebar h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.sidebar ul {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.sidebar li {
+    padding: 6px 0;
+    font-size: 15px;
+}
+.sidebar p {
+    font-size: 14px;
+    line-height: 1.5;
+    opacity: 1;
+}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.card {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+.card img {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 12px;
+}
+.card h3 {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.card p {
+    font-size: 14px;
+    line-height: 1.5;
+    opacity: 1;
+}
+.card:hover {
+    transform: translateY(-6px);
+    background: rgba(255, 255, 255, 0.25);
+}
+footer {
+    text-align: center;
+    padding: 16px 20px;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(6px);
+    font-size: 14px;
+}
