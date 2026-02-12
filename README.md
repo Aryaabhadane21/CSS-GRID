@@ -34,3 +34,9 @@ FUN NATURE GALLERY WEBPAGE
 
 TECH SKILLS WEBPAGE
 <img width="1710" height="918" alt="Screenshot 2026-01-22 at 9 07 05 PM" src="https://github.com/user-attachments/assets/d4369f55-2a6f-44aa-a541-4a1928cb5749" />
+
+
+
+FLEXBOX TASK
+<img width="1710" height="986" alt="Screenshot 2026-02-12 at 12 12 44 PM" src="https://github.com/user-attachments/assets/6c8a4ef7-347e-45cd-b927-3374b07de607" />
+
